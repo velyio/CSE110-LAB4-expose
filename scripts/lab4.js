@@ -37,3 +37,5 @@ function discountPrices(prices, discount) {
 }
 
 module.exports = {sumValues, discountPrices};
+
+//comment test pull request
